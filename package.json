@@ -1,0 +1,16 @@
+{
+  "name": "all-recipes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:mock": "node index-with-mock.js"
+  },
+  "author": "Jordan Hansen",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
