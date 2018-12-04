@@ -1,12 +1,10 @@
 {
   "name": "all-recipes",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get the cookies.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "start:mock": "node index-with-mock.js"
+    "start": "node index.js"
   },
   "author": "Jordan Hansen",
   "license": "ISC",
